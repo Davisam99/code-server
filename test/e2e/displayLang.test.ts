@@ -22,7 +22,7 @@ describe("Display language patch", flags, {}, () => {
       codeServerPage.page.click("text=Restart"),
     ])
 
-    await codeServerPage.page.waitForLoadState("networkidle")
+    await codeServerPage.page.waitForTimeout(10000)
     // Click text=Extensiones
     const visible = await codeServerPage.page.isVisible("text=Extensiones")
 
