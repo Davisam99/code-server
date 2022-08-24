@@ -1,10 +1,10 @@
-#  Paquete de idioma español para VS Code
+# Paquete de idioma español para VS Code
 
 El paquete de idioma español proporciona una experiencia de UI localizada para VS Code.
 
 ## Uso
 
-Puede invalidar el idioma predeterminado de la interfaz de usuario si establece explícitamente el idioma de VS Code con el comando "Configure Display Language". 
+Puede invalidar el idioma predeterminado de la interfaz de usuario si establece explícitamente el idioma de VS Code con el comando "Configure Display Language".
 Presione "Ctrl+Mayús+P" para que aparezca la instancia de "Paleta de comandos" y empiece a escribir "display" para filtrar y mostrar el comando "Configure Display Language".
 Presione "Entrar" y se mostrará una lista de los idiomas instalados por configuración regional, con la actual resaltada. Seleccione otra "configuración regional" para cambiar el idioma de la interfaz de usuario.
 Vea [Docs](https://go.microsoft.com/fwlink/?LinkId=761051) para más información.
@@ -26,44 +26,42 @@ Especial agradecimiento a quienes contribuyen a la comunidad por hacerlo disponi
 
 **Principales contribuyentes:**
 
-* Andy Gonzalez
-* Alberto Poblacion
-* Raul Rama
-* Alejandro M
-* Jorge Serrano Pérez
-
+- Andy Gonzalez
+- Alberto Poblacion
+- Raul Rama
+- Alejandro M
+- Jorge Serrano Pérez
 
 **Contribuyentes:**
 
-* José M. Aguilar
-* Roberto Fonseca
-* Carlos Mendible
-* Eickhel Mendoza
-* David Triana
-* David Silva
-* AlanThinks
-* Julián Martínez
-* Lukáš Chaloupka
-* German Sak
-* Santiago Porras Rodríguez
-* Marcos de Lafuente
-* Carlos Longarela
-* Thierry DEMAN-BARCELO
-* Jago
-* Christian Eduardo Palomares Peralta
-* Sergio Uziel Tovar Lemus
-* Juan Ramón Rodríguez
-* Pedro Sanchez
-* Pablo Jiménez Pascual
-* Juan Carlos Gonzalez Martin
-* Alfonso Jesus Flores Alvarado
-* Javier Moreno
-* Matias Menich
+- José M. Aguilar
+- Roberto Fonseca
+- Carlos Mendible
+- Eickhel Mendoza
+- David Triana
+- David Silva
+- AlanThinks
+- Julián Martínez
+- Lukáš Chaloupka
+- German Sak
+- Santiago Porras Rodríguez
+- Marcos de Lafuente
+- Carlos Longarela
+- Thierry DEMAN-BARCELO
+- Jago
+- Christian Eduardo Palomares Peralta
+- Sergio Uziel Tovar Lemus
+- Juan Ramón Rodríguez
+- Pedro Sanchez
+- Pablo Jiménez Pascual
+- Juan Carlos Gonzalez Martin
+- Alfonso Jesus Flores Alvarado
+- Javier Moreno
+- Matias Menich
 
 **Disfrútelo!**
 
-
-#  Spanish Language Pack for VS Code
+# Spanish Language Pack for VS Code
 
 Spanish Language Pack provides localized UI experience for VS Code.
 
@@ -93,37 +91,37 @@ Spanish Language Pack had received contribution through "By the community, for t
 
 **Top Contributors:**
 
-* Andy Gonzalez
-* Alberto Poblacion
-* Raul Rama
-* Alejandro M
-* Jorge Serrano Pérez
+- Andy Gonzalez
+- Alberto Poblacion
+- Raul Rama
+- Alejandro M
+- Jorge Serrano Pérez
 
 **Contributors:**
 
-* José M. Aguilar
-* Roberto Fonseca
-* Carlos Mendible
-* Eickhel Mendoza
-* David Triana
-* David Silva
-* AlanThinks
-* Julián Martínez
-* Lukáš Chaloupka
-* German Sak
-* Santiago Porras Rodríguez
-* Marcos de Lafuente
-* Carlos Longarela
-* Thierry DEMAN-BARCELO
-* Jago
-* Christian Eduardo Palomares Peralta
-* Sergio Uziel Tovar Lemus
-* Juan Ramón Rodríguez
-* Pedro Sanchez
-* Pablo Jiménez Pascual
-* Juan Carlos Gonzalez Martin
-* Alfonso Jesus Flores Alvarado
-* Javier Moreno
-* Matias Menich
+- José M. Aguilar
+- Roberto Fonseca
+- Carlos Mendible
+- Eickhel Mendoza
+- David Triana
+- David Silva
+- AlanThinks
+- Julián Martínez
+- Lukáš Chaloupka
+- German Sak
+- Santiago Porras Rodríguez
+- Marcos de Lafuente
+- Carlos Longarela
+- Thierry DEMAN-BARCELO
+- Jago
+- Christian Eduardo Palomares Peralta
+- Sergio Uziel Tovar Lemus
+- Juan Ramón Rodríguez
+- Pedro Sanchez
+- Pablo Jiménez Pascual
+- Juan Carlos Gonzalez Martin
+- Alfonso Jesus Flores Alvarado
+- Javier Moreno
+- Matias Menich
 
 **Enjoy!**
