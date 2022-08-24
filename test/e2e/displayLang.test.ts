@@ -8,8 +8,7 @@ describe("Display language patch", flags, {}, () => {
   test("should allow you to load code-server in Spanish", async ({ codeServerPage }) => {
     test.setTimeout(45000)
 
-    // Click [aria-label="Extensions (⇧⌘X)"]
-    await codeServerPage.page.click('[aria-label="Extensions (⇧⌘X)"]')
+    await codeServerPage.page.click(".extensions-badge")
 
     // Click [aria-label="Spanish Language Pack for Visual Studio Code, 1.70.0, Publisher MS-CEINTL, Language pack extension for Spanish"] >> text=Set Display Language
     await codeServerPage.page.click(
