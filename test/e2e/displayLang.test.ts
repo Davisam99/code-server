@@ -16,10 +16,7 @@ describe("Display language patch", flags, {}, () => {
     )
 
     // Click text=Restart
-    await Promise.all([
-      codeServerPage.page.waitForNavigation(),
-      codeServerPage.page.click("text=Restart"),
-    ])
+    await Promise.all([codeServerPage.page.waitForNavigation(), codeServerPage.page.click("text=Restart")])
 
     await codeServerPage.page.waitForTimeout(10000)
     // Click text=Extensiones
