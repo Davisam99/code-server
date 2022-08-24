@@ -17,7 +17,7 @@ describe("Display language patch", flags, {}, () => {
 
     // Click text=Restart
     await Promise.all([
-      codeServerPage.page.waitForNavigation(/*{ url: 'http://localhost:56541/?folder=/var/folders/c7/ns6lqzvx3z10mq647y5g9lqc0000gn/T/code-server/tests/workspaces/workspaces-dcTB8x' }*/),
+      codeServerPage.page.waitForNavigation(),
       codeServerPage.page.click("text=Restart"),
     ])
 
